@@ -1,0 +1,13 @@
+Day1 Sunny 85 85 FALSE No
+Day2 Sunny 80 90 TRUE No
+Day3 Overcast 83 86	FALSE Yes
+Day4 Rain 70 96	FALSE Yes
+Day5 Rain 68 80	FALSE Yes
+Day6 Rain 65 70	TRUE No
+Day7 Overcast 64 65	TRUE Yes
+Day8 Sunny 72 95 FALSE No
+Day9 Sunny 69 70 FALSE Yes
+Day10 Rain 75 80 FALSE Yes
+Day11 Sunny 75 70 TRUE Yes
+Day12 Overcast 72 90 TRUE Yes
+Day13 Overcast 81 75 FALSE Yes
